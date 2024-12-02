@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ankit7241/skynet-frontend.git
+[submodule "orchestration"]
+	path = orchestration
+	url = git@github.com:gitaalekhyapaul/skynet-orchestration.git
+[submodule "agent"]
+	path = agent
+	url = git@github.com:gitaalekhyapaul/skynet-agent.git
+[submodule "implementation"]
+	path = implementation
+	url = git@github.com:Srivastava57Harsh/Skynet-Implementation.git
